@@ -24,6 +24,7 @@ The code provides functions for:
 # Install required packages
 install.packages("igraph")
 install.packages("here")
+```
 
 ## Data Format
 The input data should be a CSV file with:

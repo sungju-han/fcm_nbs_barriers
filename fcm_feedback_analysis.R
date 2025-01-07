@@ -2,7 +2,7 @@
 #' 
 #' Functions for analyzing FCM including centrality measures, network metrics,
 #' and feedback loops
-#' Used in "Beyond Individual Barriers" paper (Han et al., 2024)
+#' Used in "Beyond Individual Barriers" paper (Han et al., 2025)
 #'
 #' @author Sungju Han
 
